@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Домашний мастер</string>
+
+    <string name="choose_work">Выберите тип работы</string>
+    <string name="choose_exercises_label">Выберите задания</string>
+    <string name="send_label">Отправить</string>
+    <string name="input_name_hint">Введите имя</string>
+    <string name="input_phone_hint">Введите номер</string>
+
+    <string name="repair">Ремонт</string>
+    <string name="service">Сервис</string>
+    <string name="send_coordinates">Прикрепить координаты</string>
+    <string name="item">Товар</string>
+    <string name="text_next">Далее</string>
+
+    <string name="google_maps_key">AIzaSyBVb_96CF4Caz69KduaF9RWLqUpZyJvW0E</string>
+    <string name="text_send">Отправить</string>
+</resources>
